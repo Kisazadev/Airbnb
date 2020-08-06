@@ -1,0 +1,16 @@
+OKay..... Things I need to do
+
+An investor wants to buy real estate in CDMX for the purpose of renting it out as an AirBnB unit...
+
+1. Rankings of avg rent price by neighborhood. Take care of outliers.
+    
+2. avg rent price over time?
+3. avg rent price by unit type
+    Avg Price(1447) for entire home/apartment is 2.7x larger than a private room. You'll need at least 3 rooms for private rooms. 
+    A hotel room is also an alternative, not a lot of competition. Cannot hold as many people so less attractive but a hotel has ammenities non-luxury buildings cannot provide. 
+4. avg amount of units per neighborhood. 
+
+Which neighborhoods have hosts with a greater monopololy. 
+
+So far... it looks like Miguel hidalgo might be the best investment accounting for avg price and amount of units available.
+
